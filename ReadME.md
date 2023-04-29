@@ -15,12 +15,12 @@ Both DC motors are controlled individually with 2 sliders. After I configured th
 With the help of web-worldmap lib I was able to display the current location using my coordinates as input.
 
 ## Logs Section
-![Logs Section](.=/img/Logs-Section.png)
+![Logs Section](./img/Logs-Section.png)
 Almost every log I got on the ESP32 I tried to replicate on the Node-Red end. This is crucial in case something in the rover breaks.
 
 ## Status Section
 ![Status Section](./img/Status-Section.png)
-Just an On/Off status on sensors and battery.
+On/Off status on sensors and battery.
 
 ## InfluxDB Section
 ![InfluxDB Section](./img/InfluxDB-Section.png)
